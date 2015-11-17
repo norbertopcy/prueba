@@ -1,3 +1,4 @@
 <?php
 echo "BIENVENIDO";
+echo "MI PRIMER DATO";
 ?>
